@@ -1,5 +1,11 @@
 # astro
 
+## 4.0.2
+
+### Patch Changes
+
+- [#9331](https://github.com/withastro/astro/pull/9331) [`cfb20550d`](https://github.com/withastro/astro/commit/cfb20550d346a33e76e23453d5dcd084e5065c4d) Thanks [@natemoo-re](https://github.com/natemoo-re)! - Updates an internal dependency ([`vitefu`](https://github.com/svitejs/vitefu)) to avoid a common `peerDependency` warning
+
 ## 4.0.1
 
 ### Patch Changes
